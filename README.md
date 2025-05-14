@@ -2,6 +2,8 @@
 
 This project is a part of Angela Yu's "The Complete 2024 Web Development Bootcamp" on Udemy. The goal of this project was to recreate the famous abstract art of Piet Mondrian using **HTML** and **CSS Grid**.
 
+Your site is live at https://nawfal-developer.github.io/mondrian-css-grid-art/
+
 ##  Project Overview
 
 Mondrian's paintings are composed of grids and primary colors, which makes them a perfect way to practice **CSS Grid Layout**. This project helped me understand how to divide a layout into rows and columns, and how to place elements precisely using grid properties.
